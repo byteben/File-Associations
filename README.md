@@ -6,7 +6,7 @@
  - Associations_Master.xml
   
 
-# DESCRIPTION
+# Description
   
 Welcome to the File Associations Repository. The purpse of this project is to create a Default File Associations file for use with DISM or GPO to set the Default File Associations in Windows 10 for new users.
 
