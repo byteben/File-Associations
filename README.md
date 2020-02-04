@@ -31,3 +31,6 @@ All ideas for applications and file types to include in this project are welcome
  - CMTrace
  - Notepad
  
+# Associations_Master.xml
+
+The Master XML file uses elements to distunguish between the various applications and filetypes. If you are confident with XML structures, it is ok to modify this file. You will need to update the Parameter Validation Sets in the **Set-FileAssoc.ps1** file to reflect the XML changes.
