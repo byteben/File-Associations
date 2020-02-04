@@ -23,7 +23,7 @@ All ideas for applications and file types to include in this project are welcome
  - IE
  
  **PDF**
- - AcrobtDC
+ - AcrobatDC
  - Edge
  - ReaderDC
  
